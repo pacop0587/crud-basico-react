@@ -1,0 +1,30 @@
+/* General */
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.background-color-primary{
+    background-color: #041C32;
+}
+
+.color-secondary{
+    color: #ECB365;
+}
+
+ .background-color-secondary{
+    background-color: #064663;
+}
+
+.background-third{
+    background-color: #04293A;
+}
+
+.border-secondary{
+    border:  1px solid #ECB365
+
+}
+/*
+.background-color-primary{
+    background-color: #ECB365;
+} */
+
